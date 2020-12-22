@@ -1,0 +1,9 @@
+{
+  "GO_COUNT": 60,
+  "GO_IMG_LIST": [],
+  "NO_GO_COUNT": 20,
+  "NO_GO_IMG_LIST": [],
+  "TIMEOUT_MS_GO": 5000,
+  "TIMEOUT_MS_NO_GO": 2000,
+  "MAX_NO_GO_SEQUENCE": 2
+}
